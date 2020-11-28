@@ -19,6 +19,7 @@
 [<img src="https://simpleicons.org/icons/django.svg" width="50px" alt="" align="left" >](https://www.djangoproject.com/)
 [<img src="https://simpleicons.org/icons/unity.svg" width="50px" alt="" align="left" >](https://unity.com/)
 [<img src="https://simpleicons.org/icons/heroku.svg" width="50px" alt="" align="left" >](https://www.heroku.com/)
-
+<br />
+<br />
 ## Find me on:
 [<img src="https://simpleicons.org/icons/linkedin.svg" width="50px" alt="" align="left">](https://www.linkedin.com/in/pranav-murali/)  
