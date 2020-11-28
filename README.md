@@ -1,7 +1,7 @@
 # Hey there! I'm Pranav Murali
 <p>I'm a Student at the Vellore Institute of Technology, Chennai, India. I Enjoy learning and I'm currently exploring Blockchains, Automation and Machine learning.</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMurali&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMurali&layout=compact&theme=radical)]
 
 
 ![Pranav Murali github stats](https://github-readme-stats.vercel.app/api?username=PranavMurali&show_icons=true&theme=radical)
