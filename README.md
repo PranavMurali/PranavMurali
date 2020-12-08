@@ -19,6 +19,7 @@
 [<img src="https://simpleicons.org/icons/django.svg" width="50px" alt="" align="left" >](https://www.djangoproject.com/)
 [<img src="https://simpleicons.org/icons/unity.svg" width="50px" alt="" align="left" >](https://unity.com/)
 [<img src="https://simpleicons.org/icons/heroku.svg" width="50px" alt="" align="left" >](https://www.heroku.com/)
+[<img src="https://simpleicons.org/icons/rust.svg" width="50px" alt="" align="left" >](https://www.rust-lang.org/)
 <br />
 <br />
 ## Find me on:
