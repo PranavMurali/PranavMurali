@@ -20,6 +20,8 @@
 [<img src="https://simpleicons.org/icons/unity.svg" width="50px" alt="" align="left" >](https://unity.com/)
 [<img src="https://simpleicons.org/icons/heroku.svg" width="50px" alt="" align="left" >](https://www.heroku.com/)
 [<img src="https://simpleicons.org/icons/rust.svg" width="50px" alt="" align="left" >](https://www.rust-lang.org/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/bd6bd577fa3ece5b171d2c3ba1d8704593187acf/icons/go.svg" width="50px" alt="" align="left" >](https://golang.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/672px-Bash_Logo_black_and_white_icon_only.svg.png" width="50px" alt="" align="left" >](https://www.gnu.org/software/bash/)
 <br />
 <br />
 ## Find me on:
