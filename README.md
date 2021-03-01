@@ -24,5 +24,8 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/672px-Bash_Logo_black_and_white_icon_only.svg.png" width="50px" alt="" align="left" >](https://www.gnu.org/software/bash/)
 <br />
 <br />
+<br />
+<br />
+
 ## Find me on:
 [<img src="https://simpleicons.org/icons/linkedin.svg" width="50px" alt="" align="left">](https://www.linkedin.com/in/pranav-murali/)  
