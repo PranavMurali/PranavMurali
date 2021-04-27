@@ -2,27 +2,34 @@
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="center" height="300" width="300" />
 </div>  
   
-# Hey there! I'm Pranav Murali
-<p>I'm a Student at the Vellore Institute of Technology, Chennai, India. I Enjoy learning and I'm currently exploring Blockchains, Automation and Machine learning.</p>
+### I'm Pranav Murali, a sophomore of Computer Science and Engineering🖥️ at VIT Chennai.🎓  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMurali&layout=compact&theme=highcontrast&langs_count=10&hide=ShaderLab,LLVM)   ![Pranav Murali github stats](https://github-readme-stats.vercel.app/api?username=PranavMurali&show_icons=true&theme=highcontrast)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PranavMurali&theme=dark&ring=DD0000&background=000000&stroke=FFEC00&dates=18DDD5)](https://git.io/streak-stats)
 
 ## Languages and Frameworks:
-[<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left">](https://www.cplusplus.com/)
-[<img src="https://simpleicons.org/icons/c.svg" width="50px" alt="" align="left" >]()
-[<img src="https://simpleicons.org/icons/csharp.svg" width="50px" alt="" align="left" >](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img src="https://simpleicons.org/icons/css3.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://simpleicons.org/icons/html5.svg" width="50px" alt="" align="left" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://simpleicons.org/icons/python.svg" width="50px" alt="" align="left" >](https://www.python.org/)
-[<img src="https://simpleicons.org/icons/tensorflow.svg" width="50px" alt="" align="left" >](https://www.tensorflow.org/)
-[<img src="https://simpleicons.org/icons/googlecloud.svg" width="50px" alt="" align="left" >](https://cloud.google.com/)
-[<img src="https://simpleicons.org/icons/django.svg" width="50px" alt="" align="left" >](https://www.djangoproject.com/)
-[<img src="https://simpleicons.org/icons/unity.svg" width="50px" alt="" align="left" >](https://unity.com/)
-[<img src="https://simpleicons.org/icons/heroku.svg" width="50px" alt="" align="left" >](https://www.heroku.com/)
-[<img src="https://simpleicons.org/icons/rust.svg" width="50px" alt="" align="left" >](https://www.rust-lang.org/)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/bd6bd577fa3ece5b171d2c3ba1d8704593187acf/icons/go.svg" width="50px" alt="" align="left" >](https://golang.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/672px-Bash_Logo_black_and_white_icon_only.svg.png" width="50px" alt="" align="left" >](https://www.gnu.org/software/bash/)
+<img  src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
+<img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
+<img  src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 
 <br />
 <br />
