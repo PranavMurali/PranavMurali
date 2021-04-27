@@ -39,9 +39,12 @@
 <br />
 <br />
 
-## Find me on:
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="50px" alt="" align="left">](https://www.linkedin.com/in/pranav-murali/)  
-<br />
-<br />
-Listen with me
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/pranav-murali" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+## Listen with me
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fo4nevukvhboy2bw6ywmnto6dm&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
