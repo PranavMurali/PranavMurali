@@ -11,9 +11,9 @@
 
 
 ## Languages and Frameworks:
-<div><img  src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" align="left" />  </div>
+<img  src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" align="left" >
 
-<img  src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"  align="left"/>   
+[<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" align="left">] (https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
 <img  src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"  align="left"/>   
 <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" align="left" />   
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"  align="left"/>  
@@ -48,4 +48,4 @@
 </div>  
 
 ## Listen with me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fo4nevukvhboy2bw6ywmnto6dm&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fo4nevukvhboy2bw6ywmnto6dm&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
