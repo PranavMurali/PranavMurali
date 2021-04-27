@@ -1,5 +1,9 @@
 ### I'm Pranav Murali, a sophomore of Computer Science and Engineering🖥️ at VIT Chennai.🎓  
-
+<div align="center">
+<a href="https://linkedin.com/in/pranav-murali" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 <div align="right">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="right" height="300" width="300" />
@@ -32,14 +36,7 @@
 [<img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" align="left"/>](https://www.r-project.org/)
 [<img  src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" align="left"/>](https://www.cprogramming.com/)
 
-<br />
-<br />
-<br />
-<br />
 
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/pranav-murali" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+
+<!--START_SECTION:activity-->
