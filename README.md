@@ -12,7 +12,7 @@
 
 ## Languages and Frameworks:
 
-[<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" align="left">] (https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+[<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" align="left">](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
 <img  src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"  align="left"/>   
 <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" align="left" />   
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"  align="left"/>  
