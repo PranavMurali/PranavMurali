@@ -1,10 +1,7 @@
 # Hey there! I'm Pranav Murali
 <p>I'm a Student at the Vellore Institute of Technology, Chennai, India. I Enjoy learning and I'm currently exploring Blockchains, Automation and Machine learning.</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMurali&layout=compact&theme=highcontrast&langs_count=10&hide=ShaderLab,LLVM)
-
-
-![Pranav Murali github stats](https://github-readme-stats.vercel.app/api?username=PranavMurali&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMurali&layout=compact&theme=highcontrast&langs_count=10&hide=ShaderLab,LLVM)   ![Pranav Murali github stats](https://github-readme-stats.vercel.app/api?username=PranavMurali&show_icons=true&theme=highcontrast)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PranavMurali&theme=dark&ring=DD0000&background=000000&stroke=FFEC00&dates=18DDD5)](https://git.io/streak-stats)
 
 ## Languages and Frameworks:
