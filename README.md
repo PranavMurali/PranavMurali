@@ -46,3 +46,9 @@
 
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#5](https://github.com/SubsTheTechnomancer/RayTracePractice/issues/5) in [SubsTheTechnomancer/RayTracePractice](https://github.com/SubsTheTechnomancer/RayTracePractice)
+2. ❗️ Opened issue [#5](https://github.com/SubsTheTechnomancer/RayTracePractice/issues/5) in [SubsTheTechnomancer/RayTracePractice](https://github.com/SubsTheTechnomancer/RayTracePractice)
+3. 🎉 Merged PR [#2](https://github.com/PranavMurali/Tf-CoronaXray/pull/2) in [PranavMurali/Tf-CoronaXray](https://github.com/PranavMurali/Tf-CoronaXray)
+4. 🎉 Merged PR [#19](https://github.com/PranavMurali/QWERTY/pull/19) in [PranavMurali/QWERTY](https://github.com/PranavMurali/QWERTY)
+5. 💪 Opened PR [#19](https://github.com/PranavMurali/QWERTY/pull/19) in [PranavMurali/QWERTY](https://github.com/PranavMurali/QWERTY)
+<!--END_SECTION:activity-->
