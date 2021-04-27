@@ -34,6 +34,9 @@
 [<img  src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" align="left"/>](https://www.cprogramming.com/)
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 ## Connect with me:
 <div align="center">
 <a href="https://linkedin.com/in/pranav-murali" target="_blank">
