@@ -1,8 +1,8 @@
+### I'm Pranav Murali, a sophomore of Computer Science and Engineering🖥️ at VIT Chennai.🎓  
+
 <div align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="center" height="300" width="300" />
 </div>  
-  
-### I'm Pranav Murali, a sophomore of Computer Science and Engineering🖥️ at VIT Chennai.🎓  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMurali&layout=compact&theme=highcontrast&langs_count=10&hide=ShaderLab,LLVM) 
 </br>![Pranav Murali github stats](https://github-readme-stats.vercel.app/api?username=PranavMurali&show_icons=true&theme=highcontrast)
