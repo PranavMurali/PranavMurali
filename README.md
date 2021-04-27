@@ -1,6 +1,7 @@
 ### I'm Pranav Murali, a sophomore of Computer Science and Engineering🖥️ at VIT Chennai.🎓  
 
-<div align="center">
+
+<div align="right">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="center" height="300" width="300" />
 </div>  
 <br/>
