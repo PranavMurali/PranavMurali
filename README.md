@@ -31,3 +31,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/PranavMurali/count.svg)
 <br />
 <br />
+Listen with me
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fo4nevukvhboy2bw6ywmnto6dm&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
