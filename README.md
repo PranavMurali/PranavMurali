@@ -11,7 +11,6 @@
 
 
 ## Languages and Frameworks:
-<img  src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" align="left" >
 
 [<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" align="left">] (https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
 <img  src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50"  align="left"/>   
