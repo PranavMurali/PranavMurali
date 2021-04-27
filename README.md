@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" align="center" height="300" width="300" />
+</div>  
+  
 # Hey there! I'm Pranav Murali
 <p>I'm a Student at the Vellore Institute of Technology, Chennai, India. I Enjoy learning and I'm currently exploring Blockchains, Automation and Machine learning.</p>
 
@@ -27,8 +31,6 @@
 
 ## Find me on:
 [<img src="https://simpleicons.org/icons/linkedin.svg" width="50px" alt="" align="left">](https://www.linkedin.com/in/pranav-murali/)  
-
-![Visitor Count](https://profile-counter.glitch.me/PranavMurali/count.svg)
 <br />
 <br />
 Listen with me
