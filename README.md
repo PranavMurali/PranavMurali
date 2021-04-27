@@ -42,6 +42,3 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-## Listen with me
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fo4nevukvhboy2bw6ywmnto6dm&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
