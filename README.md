@@ -44,7 +44,7 @@
 </a>  
 </div>  
 
-
+## Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#5](https://github.com/SubsTheTechnomancer/RayTracePractice/issues/5) in [SubsTheTechnomancer/RayTracePractice](https://github.com/SubsTheTechnomancer/RayTracePractice)
 2. ❗️ Opened issue [#5](https://github.com/SubsTheTechnomancer/RayTracePractice/issues/5) in [SubsTheTechnomancer/RayTracePractice](https://github.com/SubsTheTechnomancer/RayTracePractice)
