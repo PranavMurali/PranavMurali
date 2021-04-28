@@ -46,9 +46,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/PranavMurali/MatchFix/pull/9) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-2. 🎉 Merged PR [#8](https://github.com/PranavMurali/MatchFix/pull/8) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-3. 💪 Opened PR [#8](https://github.com/PranavMurali/MatchFix/pull/8) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-4. 🎉 Merged PR [#7](https://github.com/PranavMurali/MatchFix/pull/7) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-5. 💪 Opened PR [#7](https://github.com/PranavMurali/MatchFix/pull/7) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+1. ❌ Closed PR [#11](https://github.com/PranavMurali/MatchFix/pull/11) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+2. 🎉 Merged PR [#10](https://github.com/PranavMurali/MatchFix/pull/10) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+3. 💪 Opened PR [#10](https://github.com/PranavMurali/MatchFix/pull/10) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+4. 🎉 Merged PR [#9](https://github.com/PranavMurali/MatchFix/pull/9) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+5. 💪 Opened PR [#9](https://github.com/PranavMurali/MatchFix/pull/9) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
 <!--END_SECTION:activity-->
