@@ -46,9 +46,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/PranavMurali/MatchFix/pull/8) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-2. 💪 Opened PR [#8](https://github.com/PranavMurali/MatchFix/pull/8) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-3. 🎉 Merged PR [#7](https://github.com/PranavMurali/MatchFix/pull/7) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-4. 💪 Opened PR [#7](https://github.com/PranavMurali/MatchFix/pull/7) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-5. ❗️ Closed issue [#5](https://github.com/SubsTheTechnomancer/RayTracePractice/issues/5) in [SubsTheTechnomancer/RayTracePractice](https://github.com/SubsTheTechnomancer/RayTracePractice)
+1. 🎉 Merged PR [#6](https://github.com/PranavMurali/MatchFix/pull/6) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+2. 💪 Opened PR [#6](https://github.com/PranavMurali/MatchFix/pull/6) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+3. ❗️ Reopened issue [#3](https://github.com/PranavMurali/MatchFix/issues/3) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+4. 🎉 Merged PR [#5](https://github.com/PranavMurali/MatchFix/pull/5) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+5. ❗️ Closed issue [#3](https://github.com/PranavMurali/MatchFix/issues/3) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
 <!--END_SECTION:activity-->
