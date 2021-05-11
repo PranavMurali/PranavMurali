@@ -46,9 +46,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/PranavMurali/MatchFix/issues/2) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-2. ❗️ Opened issue [#25](https://github.com/PranavMurali/MatchFix/issues/25) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-3. ❗️ Opened issue [#24](https://github.com/PranavMurali/MatchFix/issues/24) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-4. ❗️ Opened issue [#23](https://github.com/PranavMurali/MatchFix/issues/23) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-5. ❗️ Opened issue [#22](https://github.com/PranavMurali/MatchFix/issues/22) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+1. ❗️ Closed issue [#21](https://github.com/PranavMurali/MatchFix/issues/21) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+2. ❗️ Closed issue [#2](https://github.com/PranavMurali/MatchFix/issues/2) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+3. ❗️ Opened issue [#25](https://github.com/PranavMurali/MatchFix/issues/25) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+4. ❗️ Opened issue [#24](https://github.com/PranavMurali/MatchFix/issues/24) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+5. ❗️ Opened issue [#23](https://github.com/PranavMurali/MatchFix/issues/23) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
 <!--END_SECTION:activity-->
