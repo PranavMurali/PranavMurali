@@ -46,9 +46,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/PranavMurali/QWERTY/pull/22) in [PranavMurali/QWERTY](https://github.com/PranavMurali/QWERTY)
-2. 💪 Opened PR [#22](https://github.com/PranavMurali/QWERTY/pull/22) in [PranavMurali/QWERTY](https://github.com/PranavMurali/QWERTY)
-3. 🎉 Merged PR [#20](https://github.com/PranavMurali/QWERTY/pull/20) in [PranavMurali/QWERTY](https://github.com/PranavMurali/QWERTY)
-4. 🗣 Commented on [#29](https://github.com/PranavMurali/MatchFix/issues/29) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-5. ❌ Closed PR [#29](https://github.com/PranavMurali/MatchFix/pull/29) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+1. ❌ Closed PR [#30](https://github.com/PranavMurali/MatchFix/pull/30) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+2. ❗️ Closed issue [#25](https://github.com/PranavMurali/MatchFix/issues/25) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+3. ❗️ Closed issue [#24](https://github.com/PranavMurali/MatchFix/issues/24) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+4. ❗️ Closed issue [#1](https://github.com/PranavMurali/MatchFix/issues/1) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
+5. ❗️ Closed issue [#12](https://github.com/PranavMurali/QWERTY/issues/12) in [PranavMurali/QWERTY](https://github.com/PranavMurali/QWERTY)
 <!--END_SECTION:activity-->
