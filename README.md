@@ -3,7 +3,7 @@
 
 
 <div align="right">
-<img src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" align="right" height="300" width="400" />
+<img src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" align="right" height="300" width="350" />
 </div>  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMurali&layout=compact&theme=highcontrast&langs_count=10&hide=ShaderLab,LLVM) 
