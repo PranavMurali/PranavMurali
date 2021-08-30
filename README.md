@@ -1,5 +1,5 @@
 
-### I'm Pranav Murali, a junior of Computer Science and Engineering🖥️ at VIT Chennai.🎓  
+### I'm Pranav Murali, a Computer Science and Engineering junior 🖥️ at VIT Chennai.🎓  
 
 
 <div align="right">
