@@ -42,11 +42,3 @@
 </a>  
 </div>  
 
-## Recent Activity
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/PranavMurali/MatchFix/pull/30) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-2. ❗️ Closed issue [#25](https://github.com/PranavMurali/MatchFix/issues/25) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-3. ❗️ Closed issue [#24](https://github.com/PranavMurali/MatchFix/issues/24) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-4. ❗️ Closed issue [#1](https://github.com/PranavMurali/MatchFix/issues/1) in [PranavMurali/MatchFix](https://github.com/PranavMurali/MatchFix)
-5. ❗️ Closed issue [#12](https://github.com/PranavMurali/QWERTY/issues/12) in [PranavMurali/QWERTY](https://github.com/PranavMurali/QWERTY)
-<!--END_SECTION:activity-->
