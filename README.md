@@ -31,6 +31,7 @@
 [<img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" align="left"/>](https://www.r-project.org/)
 [<img  src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" align="left"/>](https://www.cprogramming.com/)
 [<img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" alt="NextJS" height="50" align="left"/>](https://nextjs.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux Toolkit" height="50" align="left"/>](https://redux-toolkit.js.org/)
 <br/>
 <br/>
 <br/>
